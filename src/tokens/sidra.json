@@ -1,34 +1,42 @@
 [
-    {
-        "name": "Wrapped SIDRA",
-        "address": "0xB17F657e94ca58795Cf1eb98ADb7FC98ad37d35c",
-        "symbol": "WSIDRA",
-        "decimals": 18,
-        "chainId": 97454,
-        "logoURI": "https://www.sidrachain.com/icons/ios/180.png"
-    },
-    {
-        "name": "Sidra Qatari Riyal",
-        "address": "0x2426c23A3483990B19169a15C7876D3758897427",
-        "symbol": "SQR",
-        "decimals": 6,
-        "chainId": 97454,
-        "logoURI": "https://www.sidrachain.com/icons/ios/180.png"
-    },
-    {
-        "name": "Sidra Bahraini Dinar",
-        "address": "0x32bb90CC540a61b1C6F98cbDCa45FEe877B5F7F2",
-        "symbol": "SBD",
-        "decimals": 6,
-        "chainId": 97454,
-        "logoURI": "https://www.sidrachain.com/icons/ios/180.png"
-    },
-    {
-        "name": "Sidra US Dollar",
-        "address": "0x56936A13dB61860F344f26ADeb572d91B21c65b2",
-        "symbol": "SUSD",
-        "decimals": 6,
-        "chainId": 97454,
-        "logoURI": "https://www.sidrachain.com/icons/ios/180.png"
-    }
+  {
+    "name": "Wrapped SIDRA",
+    "address": "0xB17F657e94ca58795Cf1eb98ADb7FC98ad37d35c",
+    "symbol": "WSIDRA",
+    "decimals": 18,
+    "chainId": 97454,
+    "logoURI": "https://www.sidrachain.com/icons/ios/180.png"
+  },
+  {
+    "name": "Sidra Qatari Riyal",
+    "address": "0x2426c23A3483990B19169a15C7876D3758897427",
+    "symbol": "SQR",
+    "decimals": 6,
+    "chainId": 97454,
+    "logoURI": "https://www.sidrachain.com/icons/ios/180.png"
+  },
+  {
+    "name": "Sidra Bahraini Dinar",
+    "address": "0x32bb90CC540a61b1C6F98cbDCa45FEe877B5F7F2",
+    "symbol": "SBD",
+    "decimals": 6,
+    "chainId": 97454,
+    "logoURI": "https://www.sidrachain.com/icons/ios/180.png"
+  },
+  {
+    "name": "Sidra US Dollar",
+    "address": "0x56936A13dB61860F344f26ADeb572d91B21c65b2",
+    "symbol": "SUSD",
+    "decimals": 6,
+    "chainId": 97454,
+    "logoURI": "https://www.sidrachain.com/icons/ios/180.png"
+  },
+  {
+    "name": "Tesla",
+    "address": "0x7a15Ff7B396EC76268D9d0dD0E5821e41841f768",
+    "symbol": "TSLA",
+    "decimals": 18,
+    "chainId": 97453,
+    "logoURI": "https://gateway.pinata.cloud/ipfs/bafybeidwqz4we5cm3cditq52feeax3shjzljjd2lypvrhzkyhluw2ssfhm"
+  }
 ]
